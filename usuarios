@@ -1,0 +1,16 @@
+{
+"usuarios :[
+{ "id":1, "Nombre":Carlos, "edad": 32, "sexo": Masculino}
+{ "id":2, "Nombre":Samanta, "edad": 22, "sexo": Femenino}
+{ "id":3, "Nombre":Ximena, "edad": 54, "sexo": Femenino}
+{ "id":4, "Nombre":Arturo, "edad": 27, "sexo": Masculino}
+{ "id":5, "Nombre":Adrian, "edad": 22, "sexo": Masculino}
+],
+  "Domicilio": [
+    { "id": 1, "body": "Coacalco", "Colonia": Rancho la Palma },
+    { "id": 2, "body": "Ecatepec", "Colonia": San Cristobal }
+    { "id": 3, "body": "Tultepec", "Colonia": palma }
+    { "id": 4, "body": "Tultitlan", "Colonia": Real del bosques }
+    { "id": 5, "body": "Izcalli", "Colonia": Guadalupe }
+     
+  }
